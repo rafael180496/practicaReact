@@ -1,0 +1,70 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    margin-bottom: 40px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.btnCard {
+    border-radius: 100%!important;
+    max-width: 8% !important;
+    margin-right: 3%!important;
+    text-align: center!important;
+}
+
+.DrowCard {
+    border-radius: 10px !important;
+    min-width: 100px !important;
+    max-width: 100px !important;
+    height: 100% !important;
+    max-height: 85px !important;
+}
+
+.DrowCardContent {
+    max-width: 100% !important;
+    min-height: 30px !important;
+    max-height: 30px !important;
+    margin-top: 8px !important;
+}
+
+.AccionCard {
+    height: 100% !important;
+    padding: 4px !important;
+}
+
+.BorderCard {
+    border-radius: 10px !important;
+}
+
+.ContenedorMargin {
+    margin-bottom: 65px !important;
+    width: 85% !important;
+}
+
+.BorderNot {
+    border-radius: 30px !important;
+}
+
+.imgCard {
+    height: 320px;
+}
+
+.footerTop {
+    padding-top: 0px !important;
+}

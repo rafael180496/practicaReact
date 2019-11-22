@@ -1,0 +1,24 @@
+
+#node js
+https://github.com/nodesource/distributions/blob/master/README.md
+
+cli:
+create-react-app
+
+
+React Router DOM is published to npm so you can install it with either npm or yarn.
+
+npm install react-router-dom
+npm install material-icons
+
+create-react-app project-name
+npm start
+npm run build
+
+npm install --save uuid
+
+sudo npm install -g serve
+
+#componentes
+
+ npm install --save react-router-dom
